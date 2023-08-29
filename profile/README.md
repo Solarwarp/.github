@@ -2,7 +2,7 @@
 
 ## Who are we?
 
-We are SolarWarp, a small community of technical users.
+We are SolarWarp, a small community of technical users. Looking for new people!
 
 ## Our skills
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
